@@ -1,3 +1,10 @@
+# Brian's First CS193 Homework
+
+- The teachers
+- The fun homework
+- The lack of exams
+
+
 ## Welcome to GitHub Pages
 
 testing change
